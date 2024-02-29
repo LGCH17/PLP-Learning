@@ -1,0 +1,6 @@
+Name = "Oaks"
+Age = "30"
+Location = "Nairobi"
+print ("Hello", (Name))
+print ("you are", (Age), "years old")
+print ("and live in", (Location))
